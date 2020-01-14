@@ -1,0 +1,3 @@
+tableauserverclient-0.7
+
+https://tableau.github.io/server-client-python/#
